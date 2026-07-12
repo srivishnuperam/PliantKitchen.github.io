@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-label="PliantKitchen feature illustrations">
+  <rect width="600" height="360" rx="28" fill="#07111F"/>
+  <rect x="36" y="34" width="528" height="292" rx="24" fill="#11223A" stroke="#1DD5B9" stroke-width="2"/>
+  <circle cx="130" cy="120" r="54" fill="#FF7A1A" opacity="0.95"/>
+  <rect x="232" y="92" width="140" height="90" rx="16" fill="#1DD5B9" opacity="0.95"/>
+  <path d="M218 236c18-44 56-68 100-68s82 24 100 68" stroke="#F4F7FB" stroke-width="10" stroke-linecap="round"/>
+  <rect x="402" y="110" width="116" height="72" rx="14" fill="#F4F7FB" opacity="0.92"/>
+  <path d="M424 152h72" stroke="#07111F" stroke-width="10" stroke-linecap="round"/>
+  <path d="M424 132h40" stroke="#07111F" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="130" cy="120" r="20" fill="#F4F7FB"/>
+</svg>
