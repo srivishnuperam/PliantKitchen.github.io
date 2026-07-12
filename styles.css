@@ -52,14 +52,7 @@ a {
   text-transform: uppercase;
 }
 
-.brand-logo {
-  height: 40px;
-  width: auto;
-  display: block;
-  border-radius: 6px;
-  padding: 6px;
-  background: linear-gradient(135deg, var(--bg), #0f1d2f 70%, #12243d);
-}
+/* logo image removed — brand uses text only */
 
 .nav-links {
   display: flex;
